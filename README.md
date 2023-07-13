@@ -1,5 +1,5 @@
 # Pizza-House
-I have created this website as an intern in @Dabotics India pvt.ltd. My #task1 is to create an responsive website by using HTML,CSS and Javascripy (optional). By using html and css, i have created fully responsive website. In this digital era, it's essential to ensure that websites are accessible and visually appealing across all devices. With the mobile-first approach, my website adapts flawlessly to smartphones, tablets, laptops, and desktop screens. No matter the size or resolution, the user experience remains seamless and engaging.
+I have created this website as an intern in @Dabotics India pvt.ltd. My #task1 is to create an responsive website by using HTML,CSS and Javascripy (optional). By using html and css, i have created fully responsive website. In this digital era, it's essential to ensure that websites are accessible and visually appealing across all devices. With the mobile-first approach, my website adapts flawlessly to smartphones, tablets, laptops, and desktop screens. No matter the size or resolution, the user experience remains seamless and engaging. 
 
 # Link
 https://pizza-house-wasifchougule.netlify.app/
